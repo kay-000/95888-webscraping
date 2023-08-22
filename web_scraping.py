@@ -32,8 +32,6 @@ def scrapeHolidify(destination):
     
     return hotels
 
-
-# Note - this seems to only work for major cities. 
 scrapeHolidify("Manali")
 scrapeHolidify("London")
 scrapeHolidify("New York City")
